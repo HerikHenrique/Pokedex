@@ -32,6 +32,10 @@ function App() {
         <Menu/>
       </Grid>
 
+      <Grid>
+        <Card/>
+      </Grid>
+
     </Grid>
     </div>
   );

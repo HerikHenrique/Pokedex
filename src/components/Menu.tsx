@@ -52,7 +52,11 @@ export default function MenuListComposition() {
         <MenuList>
           <MenuItem>Profile</MenuItem>
           <MenuItem>My account</MenuItem>
-          <MenuItem>Logout</MenuItem>
+          <MenuItem>Pokemons</MenuItem>
+          <MenuItem>Cidades</MenuItem>
+          <MenuItem>Frutos</MenuItem>
+          <MenuItem>Geração</MenuItem>
+          <MenuItem>PokeAPI</MenuItem>
         </MenuList>
       </Paper>
       
