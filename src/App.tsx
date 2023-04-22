@@ -35,7 +35,7 @@ function App() {
       <Grid>
         <Card/>
       </Grid>
-
+<Test/>
     </Grid>
     </div>
   );
